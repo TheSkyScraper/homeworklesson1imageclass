@@ -8,7 +8,7 @@
 
 ![excitedbaby](https://media.giphy.com/media/DqQhFf7nje2k0/giphy.gif)
 
-#And this is the Image Classifier
+# And then there were these... 
 ![Imgur](https://imgur.com/Wk1Iuew.png)
 ![Imgur](https://imgur.com/lg16BQw.png)
 ![Imgur](https://imgur.com/tVwrtHU.png)
