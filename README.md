@@ -7,3 +7,8 @@
 # Then I googled "kelpie" and was like...
 
 ![excitedbaby](https://media.giphy.com/media/DqQhFf7nje2k0/giphy.gif)
+
+#And this is the Image Classifier
+
+![Imgur](https://imgur.com/lg16BQw.png)
+![Imgur](https://imgur.com/tVwrtHU.png)
